@@ -1,7 +1,5 @@
 Uses regular expressions to scan text for addresses.
 
-The regular expression that I ended up with was 
-
 "\\d\*\\s+\\w+\\s+\\w+\\.,\*\\s\*\\w\*\\s\*\\w\*,\*\\s+\\w{2},\*\\s+\\d{5}"
 
 Which allows for addresses in the form 
