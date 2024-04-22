@@ -1,1 +1,1 @@
-This program parses given IPtables rules to determine if they are syntactically correct.
+This program parses given rules for the Linux OS iptables firewall to determine if they are syntactically correct.
